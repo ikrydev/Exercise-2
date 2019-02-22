@@ -1,0 +1,23 @@
+body {
+    background: linear-gradient(to right, #cb2d3e, #ef473a);
+
+}
+
+input[type="number"] {
+    padding: 30px;
+    background-color: #222;
+    color: #fff;
+    font-size: 50px;
+    width: 145px;
+    border-radius: 5px;
+}
+
+select {
+    font-size: 40px;
+    margin: 35px;
+}
+
+span.result {
+    display: none;
+    font-size: 70px;
+}
